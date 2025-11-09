@@ -1,0 +1,1 @@
+{'DNSMOS': {'OVRL': 3.4, 'SIG': 3.63, 'BAK': 4.16, 'P808_MOS': 3.97}, 'SRMR': 9.49, 'PESQ': 1.04, 'STOI': 0.11, 'NB_PESQ': 1.05, 'SISDR': -38.57, 'FWSEGSNR': -4.21, 'LSD': 8.3, 'BSSEval': {'SDR': -5.69, 'ISR': -0.2, 'SAR': -24.44}, 'SNR': -2.31, 'SSNR': -3.05, 'LLR': 2.86, 'CSIG': 1.0, 'CBAK': 1.06, 'COVL': 1, 'MCD': 28.66}
